@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/Wzz3wDu.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">   ✰𝗣𝗢𝗢𝗞𝗜𝗘☆𝘾𝙃𝘼𝙏☆𝘽𝙊𝙏✰𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟✰🌐</h1>
+<img src="https://i.imgur.com/Zd1T2uH.png" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">   ✰𝗠𝗔𝗠𝗨𝗡☆𝘾𝙃𝘼𝙏☆𝘽𝙊𝙏✰𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟✰🌐</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am MAMUN from %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
