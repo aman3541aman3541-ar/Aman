@@ -1,29 +1,25 @@
 name: Node.js Bot
 
 on:
-  workflow_dispatch:
   push:
-    branches:
-      - main
-  schedule:
-    - cron: "*/30 * * * *"
+    branches: [ main, master ]
+  workflow_dispatch:
 
 jobs:
-  run-bot:
+  bot:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: "npm"
+          node-version: 20
 
       - name: Install Dependencies
         run: npm install
 
       - name: Start Bot
-        run: npm start
+        run: node index.js
